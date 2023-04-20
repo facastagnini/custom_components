@@ -1,7 +1,7 @@
 // based on Adafruit backpack library
 
 static const uint16_t alphafonttable[] PROGMEM =  {
-0b00000000, // (space)
+    0b00000000, // (space)
     0b10000110, // !
     0b00100010, // "
     0b01111110, // #
